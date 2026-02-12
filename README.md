@@ -11,7 +11,6 @@ The method and results are explained in project_description.pdf, and the code us
 This project was undertaken for CS159, instructor Professor Yisong Yue, in summer term of 2025.
 
 ## References
-<a id="1">[1]</a>  
-Albors, C., Canal Li, J., Benegas, G., Ye, C., & Song, Y. S. (2025).  
+<a id="1">[1]</a>  Albors, C., Canal Li, J., Benegas, G., Ye, C., & Song, Y. S. (2025).  
 *A Phylogenetic Approach to Genomic Language Modeling*.  
 arXiv:2503.03773. https://arxiv.org/abs/2503.03773

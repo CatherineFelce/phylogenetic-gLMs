@@ -6,8 +6,8 @@ Firstly, I investigate the zero-shot transfer performance of a model from Albors
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CatherineFelce/phylogenetic-gLMs/blob/main/notebooks/PhyloGPN.ipynb)
 
 
-I then propose a novel approach to identifying regions of evolutionary interest via analysis of LM vs MSA entropy, and present a proof-of-concept experiment (Section 3, Figures 4-9, [code here](/notebooks/entropyt_analysis.ipynb). I suggest that the separate use of alignment-blind language models and known MSAs could contribute to our understanding of how different genomic regions evolve. [
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CatherineFelce/phylogenetic-gLMs/blob/main/notebooks/entropy_analysis.ipynb)
+I then propose a novel approach to identifying regions of evolutionary interest via analysis of LM vs MSA entropy, and present a proof-of-concept experiment (Section 3, Figures 4-9, [code here](/notebooks/entropyt_analysis.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CatherineFelce/phylogenetic-gLMs/blob/main/notebooks/entropy_analysis.ipynb). I suggest that the separate use of alignment-blind language models and known MSAs could contribute to our understanding of how different genomic regions evolve. 
+
 
 This project was undertaken for CS159, instructor Professor Yisong Yue, in summer term of 2025.
 

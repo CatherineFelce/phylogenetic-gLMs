@@ -2,14 +2,12 @@
 
 Exploring the use of genomic lanuage models (gLMs) for predicting sequences across species. Please see [the project description](project_description.pdf) for further background, methods and results.
 
-Firstly, I investigate the zero-shot transfer performance of a model from Albors et al. [[1]](#1), which makes predictions based on combined intra and inter-species (multiple sequence alignment (MSA)) information. [Colab notebook](https://colab.research.google.com/github/CatherineFelce/phylogenetic-gLMs/blob/main/notebooks/PhyloGPN.ipynb)
+Firstly, I investigate the zero-shot transfer performance of a model from Albors et al. [[1]](#1), which makes predictions based on combined intra and inter-species (multiple sequence alignment (MSA)) information. (Section 2 and Figures 2 & 3, [code here](/notebooks/PhyloGPN.ipynb)).
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CatherineFelce/phylogenetic-gLMs/blob/main/notebooks/PhyloGPN.ipynb)
 
 
-I then propose a novel approach to identifying regions of evolutionary interest via analysis of LM vs MSA entropy, and present a proof-of-concept experiment. I suggest that the separate use of alignment-blind language models and known MSAs could contribute to our understanding of how different genomic regions evolve. [Colab notebook](https://colab.research.google.com/github/CatherineFelce/phylogenetic-gLMs/blob/main/notebooks/entropy_analysis.ipynb)
+I then propose a novel approach to identifying regions of evolutionary interest via analysis of LM vs MSA entropy, and present a proof-of-concept experiment (Section 3, Figures 4-9, [code here](/notebooks/entropyt_analysis.ipynb). I suggest that the separate use of alignment-blind language models and known MSAs could contribute to our understanding of how different genomic regions evolve. [
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CatherineFelce/phylogenetic-gLMs/blob/main/notebooks/entropy_analysis.ipynb)
-
-The method and results are explained in project_description.pdf, and the code used to obtain these results is included in the [notebooks directory](/notebooks). 
 
 This project was undertaken for CS159, instructor Professor Yisong Yue, in summer term of 2025.
 
